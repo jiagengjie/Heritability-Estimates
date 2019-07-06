@@ -1,5 +1,5 @@
-# Heritability Estimates
-## Please cite: Estimating Genetic Parameters in the Absence of Genetic Data from Country-scale Health Datasets
+## Heritability Estimates Using the Method introduced in the Article below
+### Please cite: Estimating Genetic Parameters in the Absence of Genetic Data from Country-scale Health Datasets
 
 | Disease                                           | Heritability Value | Heritability SE | Data Type              | Math Model |
 |---------------------------------------------------|--------------------|-----------------|------------------------|------------|
